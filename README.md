@@ -1,2 +1,2 @@
-# suba.zzshoemart
-Shoe mart e-commerce application
+# SubazzShoeMart
+Shoe Mart e-commerce Application
